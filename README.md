@@ -33,7 +33,7 @@ cd api-calculadora-em-java
 ./mvnw spring-boot:run
 ```
 
-A aplicação será iniciada e ficará disponível localmente na porta padrão do Spring Boot (geralmente `http://localhost:8080`).
+A aplicação será iniciada e ficará disponível localmente em `http://localhost:8080/calc`.
 
 ---
 
